@@ -8,4 +8,4 @@ Majoritariamente, você encontrá implementações de Estruturas, Tads, exercíc
 
 **Conteúdos abordados**: variáveis, condicional,funções, recursividade, repetição, busca, arquivos, strings, bitwise e binário.
 
-**Estruturas e algoritmos**: Busca binária, busca linear, lista encadeada, listas lineares ( ordenadas, com repeticao, sem repeticao) pilha, fila, árvores. Em breve incluirei conteúdo de Grafos também. 
+**Estruturas e algoritmos**: Busca binária, busca linear, lista encadeada, listas lineares ( ordenadas, com repeticao, sem repeticao) pilha, fila e árvores. Em breve incluirei conteúdo de Grafos. 
