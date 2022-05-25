@@ -2,13 +2,9 @@
 
 **Olá**, seja muito bem vindo!
 
-Esse é o meu diretório de desenvolvimento de estruturas e fundamentos de programação em linguagem C.
+Este repositório está destinado ao desenvolvimento de estruturas e fundamentos de programação em linguagem C.
 
-
-
-Majoritariamente você encontrá implementações de Estruturas, Tads, exercícios resolvidos e muito mais. 
-
-
+Majoritariamente, você encontrá implementações de Estruturas, Tads, exercícios resolvidos e muito mais. 
 
 **Conteúdos abordados**: variáveis, condicional,funções, recursividade, repetição, busca, arquivos, strings, bitwise e binário.
 
